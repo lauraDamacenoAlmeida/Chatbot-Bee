@@ -6,7 +6,7 @@ Foi realizado sessões de desing thinking para aprimorar a solução do bot e tr
 
 ## Requisitos
 1. [Watson Assistant](https://www.ibm.com/cloud/watson-assistant/)
-2. Node JS
+2. [Node JS](https://nodejs.org/en/)
 
 ## Estrutura do projeto
 Atualmente a Bee está dividida assim:
